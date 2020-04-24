@@ -5,7 +5,7 @@ Built an Android Application for adding notes, editing notes or deleting notes.T
 # Development
 1.Built on Android studio using java.
 
-2.Most of the coding part is divided into "Main Activity Part" and "Note Editor Part" present in res folder.
+2.Most of the coding part is divided into "Main Activity Part" and "Note Editor Part".
 
 
 # Contributor
