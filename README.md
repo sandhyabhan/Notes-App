@@ -1,6 +1,6 @@
 # Notes-App
 
-Built an Android Application for adding notes, editing notes or deleting notes.The added notes are saved and can be viewed later.This is a part of my personal project to learn basics of Android Development.
+Built an Android Application for adding notes, editing notes or deleting notes.The added notes are saved and can be viewed later.
 
 # Development
 1.Built on Android studio using java.
